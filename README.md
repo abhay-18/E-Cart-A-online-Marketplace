@@ -1,2 +1,2 @@
 # E-Cart-A-online-Marketplace
-Online marketplace
+Online marketplace using flask
